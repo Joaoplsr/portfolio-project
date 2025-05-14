@@ -67,7 +67,7 @@ const About = () => {
             transition={{ duration: 0.5, delay: 0.4, ease: "easeOut" }}
           >
             <img
-              src="../../public/me.jpg"
+              src="../../dist/me.jpg"
               alt="João Pedro"
               className="w-3/4 rounded-lg shadow-md"
             />
